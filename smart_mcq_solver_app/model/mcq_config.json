@@ -1,0 +1,8 @@
+{
+    "embedding_dim": 128,
+    "hidden_dim": 128,
+    "max_len": 64,
+    "vocab_size": 2976,
+    "padding_idx": 0,
+    "dropout": 0.3
+}

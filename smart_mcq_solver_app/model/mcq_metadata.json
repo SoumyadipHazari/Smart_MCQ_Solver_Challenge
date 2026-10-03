@@ -1,0 +1,16 @@
+{
+    "project": "Smart MCQ Solver",
+    "model_name": "BiLSTM + Attention",
+    "framework": "PyTorch",
+    "embedding_dim": 128,
+    "hidden_dim": 128,
+    "max_length": 64,
+    "vocab_size": 2976,
+    "classes": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+    ]
+}
